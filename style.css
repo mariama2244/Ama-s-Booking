@@ -12,10 +12,28 @@ body {
     display: flex;
     flex-direction: column;
 }
+.banner img{
+    height: 30em;
+    width: 100%;
+}
 
 .bg-grey{
     background-color: rgba(224, 219, 219, 0.317);
 }
+.footer{
+    background-color: rgba(224, 219, 219, 0.317);
+}
+
+.footer ul li a{
+    text-decoration: none;
+    text-decoration-line: none;  
+    color: #212528;   
+}
+
+
+
+
+
 
 
 
